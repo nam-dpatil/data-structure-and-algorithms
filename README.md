@@ -1,1 +1,2 @@
-# My-new-repository
+# Custom User-Defined Collection in Java
+A custom user-defined collection in Java is a specialized data structure that i design and implement to store and manage a collection of objects. Unlike the built-in collections like ArrayList, LinkedList, Map, a custom collection is tailored to address specific requirements or constraints of our application. It provides a way to organize, access, and manipulate objects according to our unique use case.
